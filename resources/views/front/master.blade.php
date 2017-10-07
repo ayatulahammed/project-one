@@ -24,5 +24,5 @@
     </div>
 @include('front.includes.footer')
 </div>
-<div align=center>This template  downloaded form <a href='http://all-free-download.com/free-website-templates/'>free website templates</a></div></body>
+<div align=center>This website  Developed by <a href='http://all-free-download.com/free-website-templates/'>Graphic Shien</a></div></body>
 </html>
