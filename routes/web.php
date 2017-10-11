@@ -20,4 +20,10 @@ Route::get('/contact','WelController@contact');
 
 Auth::routes();
 
+
+
+
 Route::get('/home', 'HomeController@index')->name('home');
+
+Route::get('/category/add-category', 'CategoryController@index');
+Route::post('/category/new-category', 'CategoryController@saveCategoryInfo');
